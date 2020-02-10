@@ -1,0 +1,154 @@
+@font-face{
+    src: url(../fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "MONSTER"
+}
+@font-face{
+    src: url(../fonts/Merriweather/Merriweather-Regular.ttf);
+    font-family: "MASTER"
+}
+
+.Title{
+    font-size: 20px;
+    color: yellowgreen;
+    text-align: center;
+    background: black;
+    font-family: "MONSTER";
+    font-size: 45px;
+    
+
+}
+#cloud{
+    margin-bottom:0px;
+    margin-left: 100px;
+
+}
+#clouds{
+    margin-bottom:100px;
+    margin-left: 300px;
+}
+#bundok{
+    margin-left: 90px;
+
+}
+#ulap{
+    margin-top:10px;
+    margin-right: 600px;
+}
+#ulaps{
+    margin-left: 600px;
+}
+
+.Body{
+    font-size: 20px;
+    font-family: "MASTER";
+    color: green;
+    text-align: center;
+    background: skyblue;
+    padding: 20px;
+
+}
+
+.Skills{
+    font-size: 20px;
+    font-family: "MASTER";
+    color: green;
+    text-align: center;
+    background:skyblue;
+    padding: 30px;
+}
+.Talent{
+    font-size: 20px;
+    font-family: "MASTER";
+    color: green;
+    text-align: center;
+    background: skyblue;
+    margin: 10px;
+    padding: 30px;
+}
+.ends{
+    margin-top: 10px;
+    padding: 20px;
+    font-family: "MASTER";
+    background-color: yellowgreen;
+    padding: 5px;
+    margin-bottom: 30px;
+    
+}
+d:hover{
+    color: white;
+    
+
+}
+b:hover{
+    color: white;
+    
+    
+}
+c:hover{
+    color: white;
+    
+}
+#foot:hover{
+    color: white;
+}
+
+#langit{
+    margin-right: 300px;
+}
+#browser{
+    height: 100px;
+}
+#langits{
+    margin-left: 400px;
+}
+#ulapsss{
+    margin-left: 500px;
+}
+#ulapss{
+    margin-right: 500px;
+
+}
+#bundoks{
+    height: 100px;
+}
+#Heading{
+    color: yellow;
+}
+#Sub-Heading{
+    color: yellow
+
+}
+#Greet{
+    color: red;
+    font-size: 50px;
+    font-family: "MASTER"    
+}
+#Greets{
+    color: red;
+    font-size: 50px;
+    font-family: "MASTER"  
+}
+#Greetss{
+    color: red;
+    font-size: 50px;
+    font-family: "MASTER"  
+}
+#Greetsss{
+    color: red;
+    font-size: 50px;
+    font-family: "MASTER"  
+}
+#Greetssss{
+    color: red;
+    font-size: 50px;
+    font-family: "MASTER"  
+}
+.footer{
+    background: violet;
+    color: black;
+}
+#profile{
+    height: 300px;
+}
+
+
